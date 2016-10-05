@@ -17,4 +17,5 @@ Here's the relevant [xkcd comic](https://xkcd.com/1597/).
 
 ## Cleaning up messes
 * [Changing History, or how to Git Pretty](http://justinhileman.info/article/changing-history/) by Justin Hileman (11/?/2011) is a thorough explanation of how to fix whatever went wrong in your commit history, culminating in an [awesome flowchart](http://justinhileman.info/article/git-pretty/). (Also summarized in a [presentation](https://presentate.com/bobthecow/talks/changing-history))
+* [Pro Git chapter](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) on changing history
 * [The Thing About Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git) by Ryan Tomayko (4/8/2008) gives a good tutorial for `git add --patch`.
