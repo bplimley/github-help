@@ -4,6 +4,7 @@ A collection of useful resources for getting up to speed on git and GitHub.
 ## Tutorials
 * Software Carpentry has a good [git tutorial](http://swcarpentry.github.io/git-novice/) for new users.
 * Atlassian has [good resources](https://www.atlassian.com/git/tutorials/) too, although note that some of it is based on Bitbucket which is an alternative to GitHub.
+* Roger Dudler has a [visually pleasing simple summary](http://rogerdudler.github.io/git-guide/).
 * Guides for the GitHub [desktop (GUI) application](https://help.github.com/desktop/guides/).
 * [Think Like (a) Git](http://think-like-a-git.net/) by Sam Livingston-Gray is an intermediate tutorial, for if you already know how to make a repo and add commits, but struggle with more complex operations.
 
