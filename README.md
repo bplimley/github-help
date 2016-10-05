@@ -1,6 +1,8 @@
 # github-help
 A collection of useful resources for getting up to speed on git and GitHub. Thanks to [Garret Christensen](https://github.com/garretchristensen) for [his talk](https://github.com/garretchristensen/THWGitDemo) at [The Hacker Within at UC Berkeley](http://www.thehackerwithin.org/berkeley/) for some of these resources.
 
+Here's the relevant [xkcd comic](https://xkcd.com/1597/).
+
 ## Tutorials
 * Software Carpentry has a good [git tutorial](http://swcarpentry.github.io/git-novice/) for new users.
 * Atlassian has [good resources](https://www.atlassian.com/git/tutorials/) too, although note that some of it is based on Bitbucket which is an alternative to GitHub.
