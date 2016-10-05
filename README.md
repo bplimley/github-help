@@ -10,6 +10,9 @@ Here's the relevant [xkcd comic](https://xkcd.com/1597/).
 * Guides for the GitHub [desktop (GUI) application](https://help.github.com/desktop/guides/).
 * [Think Like (a) Git](http://think-like-a-git.net/) by Sam Livingston-Gray is an intermediate tutorial, for if you already know how to make a repo and add commits, but struggle with more complex operations.
 
+## Data flow with commands
+* See this wikimedia [diagram](https://upload.wikimedia.org/wikipedia/commons/2/29/Git_data_flow.png)
+
 ## Git commits, branching, workflow
 * tpope explains [what a commit message should look like](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 * [git-flow](http://nvie.com/posts/a-successful-git-branching-model/) by Vincent Driessen (1/5/2010) describes a formalized workflow using `master`, `develop`, `release` branch, feature branches, and hotfixes.
